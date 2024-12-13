@@ -1,0 +1,14 @@
+C:\Users\Vahid\source\repos\Session_3\OOP.Consoles\bin\Debug\net8.0\OOP.Consoles.exe
+C:\Users\Vahid\source\repos\Session_3\OOP.Consoles\bin\Debug\net8.0\OOP.Consoles.deps.json
+C:\Users\Vahid\source\repos\Session_3\OOP.Consoles\bin\Debug\net8.0\OOP.Consoles.runtimeconfig.json
+C:\Users\Vahid\source\repos\Session_3\OOP.Consoles\bin\Debug\net8.0\OOP.Consoles.dll
+C:\Users\Vahid\source\repos\Session_3\OOP.Consoles\bin\Debug\net8.0\OOP.Consoles.pdb
+C:\Users\Vahid\source\repos\Session_3\OOP.Consoles\obj\Debug\net8.0\OOP.Consoles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vahid\source\repos\Session_3\OOP.Consoles\obj\Debug\net8.0\OOP.Consoles.AssemblyInfoInputs.cache
+C:\Users\Vahid\source\repos\Session_3\OOP.Consoles\obj\Debug\net8.0\OOP.Consoles.AssemblyInfo.cs
+C:\Users\Vahid\source\repos\Session_3\OOP.Consoles\obj\Debug\net8.0\OOP.Consoles.csproj.CoreCompileInputs.cache
+C:\Users\Vahid\source\repos\Session_3\OOP.Consoles\obj\Debug\net8.0\OOP.Consoles.dll
+C:\Users\Vahid\source\repos\Session_3\OOP.Consoles\obj\Debug\net8.0\refint\OOP.Consoles.dll
+C:\Users\Vahid\source\repos\Session_3\OOP.Consoles\obj\Debug\net8.0\OOP.Consoles.pdb
+C:\Users\Vahid\source\repos\Session_3\OOP.Consoles\obj\Debug\net8.0\OOP.Consoles.genruntimeconfig.cache
+C:\Users\Vahid\source\repos\Session_3\OOP.Consoles\obj\Debug\net8.0\ref\OOP.Consoles.dll

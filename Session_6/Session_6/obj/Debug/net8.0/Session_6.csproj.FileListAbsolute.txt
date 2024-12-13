@@ -1,0 +1,14 @@
+C:\Users\Vahid\source\repos\Session_6\Session_6\bin\Debug\net8.0\Session_6.exe
+C:\Users\Vahid\source\repos\Session_6\Session_6\bin\Debug\net8.0\Session_6.deps.json
+C:\Users\Vahid\source\repos\Session_6\Session_6\bin\Debug\net8.0\Session_6.runtimeconfig.json
+C:\Users\Vahid\source\repos\Session_6\Session_6\bin\Debug\net8.0\Session_6.dll
+C:\Users\Vahid\source\repos\Session_6\Session_6\bin\Debug\net8.0\Session_6.pdb
+C:\Users\Vahid\source\repos\Session_6\Session_6\obj\Debug\net8.0\Session_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vahid\source\repos\Session_6\Session_6\obj\Debug\net8.0\Session_6.AssemblyInfoInputs.cache
+C:\Users\Vahid\source\repos\Session_6\Session_6\obj\Debug\net8.0\Session_6.AssemblyInfo.cs
+C:\Users\Vahid\source\repos\Session_6\Session_6\obj\Debug\net8.0\Session_6.csproj.CoreCompileInputs.cache
+C:\Users\Vahid\source\repos\Session_6\Session_6\obj\Debug\net8.0\Session_6.dll
+C:\Users\Vahid\source\repos\Session_6\Session_6\obj\Debug\net8.0\refint\Session_6.dll
+C:\Users\Vahid\source\repos\Session_6\Session_6\obj\Debug\net8.0\Session_6.pdb
+C:\Users\Vahid\source\repos\Session_6\Session_6\obj\Debug\net8.0\Session_6.genruntimeconfig.cache
+C:\Users\Vahid\source\repos\Session_6\Session_6\obj\Debug\net8.0\ref\Session_6.dll
